@@ -2,7 +2,7 @@
 ### Atores: Aluno & Professor  
 
 #### Fluxo normal:  
-1 - Professor acessa o sistema.  
+1 - <ins>Professor acessa o sistema.</ins>   
 2 - Professor cria sala (matéria, sala, turma).  
 3 - Professor define permissões (moderador ou leitor).  
 4 - Professor define visibilidade (público ou privado).  
