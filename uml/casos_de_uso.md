@@ -1,7 +1,7 @@
-## Sistema de Gestão de Sala de Aula Online  
-### Atores: Aluno & Professor  
+## Sistema de Gestão de Sala de Aula Online
+### Atores: Aluno & Professor
 
-#### Fluxo normal:  
+#### Fluxo normal:
 1 - <ins>Professor acessa o sistema.</ins>   
 2 - Professor cria sala (matéria, sala, turma).  
 3 - Professor define permissões (moderador ou leitor).  
@@ -15,7 +15,7 @@
 11 - Professor avalia e registra atividade.  
 12 - Aluno envia mensagens (privadas ou públicas).  
 
-#### Extensões:  
+#### Extensões:
 3a: Se não definir permissões, sistema assume modo leitor.  
 4a: Se não definir visibilidade, sistema assume modo público.  
 7a: Se aluno não conseguir acessar, sala pode estar privada sem nome incluído.  
