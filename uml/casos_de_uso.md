@@ -6,14 +6,14 @@
 2 - Professor cria sala (matéria, sala, turma).  
 3 - Professor define permissões (moderador ou leitor).  
 4 - Professor define visibilidade (público ou privado).  
-5 - Professor envia a sala via link com convite.  
-6 - Aluno acessa a sala via link e aceita convite.  
-7 - Professor cria e envia anúncios (atividades, testes, provas, simulados, eventos).  
+5 - Professor manda convite e envia a sala via link para Aluno. 
+6 - Aluno acessa a sala via link e aceita convite de Professor.  
+7 - Professor cria/envia anúncios (atividades, testes, provas, simulados, eventos).  
 8 - Professor define permissões adicionais (entregas atrasadas).  
-9 - Professor define data e hora de entrega/realização.  
+9 - Professor define data/hora dos anúncios.  
 10 - Aluno entrega atividade no prazo estipulado.  
-11 - Professor avalia e registra atividade.  
-12 - Aluno envia mensagens (privadas ou públicas).  
+11 - Professor avalia/registra atividade.  
+12 - Aluno envia mensagens (privadas ou públicas) para Professor (denúnciar problemas, feedback).  
 
 #### Extensões:
 3a: Se não definir permissões, sistema assume modo leitor.  
