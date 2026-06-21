@@ -7,7 +7,7 @@
 3 - Professor pede e pega email de alunos  
 3 - Professor define permissões (moderador ou leitor).  
 4 - Professor define visibilidade (público ou privado).  
-5 - Professor publica a sala e manda convite para Aluno. 
+5 - Professor publica a sala e manda convite para Aluno.  
 6 - Aluno acessa a sala via link e aceita convite do Professor.  
 7 - Professor cria post (atividades, testes, provas, simulados, eventos).  
 8 - Professor define permissões adicionais (entregas atrasadas).  
